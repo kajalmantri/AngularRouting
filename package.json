@@ -1,0 +1,23 @@
+{
+  "name": "FrontEndTraining",
+  "version": "0.0.1",
+  "description": "We are Learning Angular Routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dixitchandra Patel",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.4.0",
+    "angular-route": "^1.4.0",
+    "body-parser": "^1.12.2",
+    "debug": "^2.1.3",
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "jquery": "^3.1.0",
+    "morgan": "^1.5.2",
+    "serve-favicon": "^2.2.0",
+    "toastr": "^2.1.2"
+  }
+}
